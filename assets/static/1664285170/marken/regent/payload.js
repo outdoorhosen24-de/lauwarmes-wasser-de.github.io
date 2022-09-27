@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/regent", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/ariston-kleinspeicher-regent-10-ut-eek-a-regent-1005941-1.jpg":"\u002Fassets\u002Fimages\u002Fariston-kleinspeicher-regent-10-ut-eek-a-regent-1005941-1.webp"}}],fetch:{},mutations:void 0});
