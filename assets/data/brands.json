@@ -1,17 +1,38 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
+        "key": "clage",
+        "name": "Clage",
+        "slug": "clage",
+        "productCategory": "Clage",
+        "localThumb": "/assets/images/hersteller/clage.webp"
     },
     {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "aeg",
+        "name": "AEG",
+        "slug": "aeg",
+        "productCategory": "AEG",
+        "localThumb": "/assets/images/hersteller/aeg.webp"
+    },
+    {
+        "key": "thermoflow",
+        "name": "Thermoflow",
+        "slug": "thermoflow",
+        "productCategory": "Thermoflow",
+        "localThumb": "/assets/images/hersteller/thermoflow.webp"
+    },
+    {
+        "key": "stiebel eltron",
+        "name": "Stiebel Eltron",
+        "slug": "stiebel-eltron",
+        "productCategory": "Stiebel Eltron",
+        "localThumb": "/assets/images/hersteller/stiebel-eltron.webp"
+    },
+    {
+        "key": "vaillant",
+        "name": "Vaillant",
+        "slug": "vaillant",
+        "productCategory": "Vaillant",
+        "localThumb": "/assets/images/hersteller/vaillant.webp"
     },
     {
         "key": "sonstige",
@@ -21,66 +42,31 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "gorenje",
+        "name": "Gorenje",
+        "slug": "gorenje",
+        "productCategory": "Gorenje",
+        "localThumb": "/assets/images/hersteller/gorenje.webp"
     },
     {
-        "key": "obi",
-        "name": "OBI",
-        "slug": "obi",
-        "productCategory": "OBI",
-        "localThumb": "/assets/images/hersteller/obi.webp"
+        "key": "saniself",
+        "name": "Saniself",
+        "slug": "saniself",
+        "productCategory": "Saniself",
+        "localThumb": "/assets/images/hersteller/saniself.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "regent",
+        "name": "Regent",
+        "slug": "regent",
+        "productCategory": "Regent",
+        "localThumb": "/assets/images/hersteller/regent.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
-    },
-    {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
-    },
-    {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
-    },
-    {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
-    },
-    {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
-    },
-    {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "ariston",
+        "name": "Ariston",
+        "slug": "ariston",
+        "productCategory": "Ariston",
+        "localThumb": "/assets/images/hersteller/ariston.webp"
     }
 ]
