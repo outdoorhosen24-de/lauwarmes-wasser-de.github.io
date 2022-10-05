@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "lauwarmes-wasser.de",
+    "hostname": "https://www.lauwarmes-wasser.de/",
+    "email": "lauwarmes-wasser.desurrealnetworks.io",
+    "organization": "lauwarmes-wasser.de",
+    "logoText": "Lauwarmes-wasser.de",
+    "title": "Warmwasser",
+    "subline": "Der Online Shop f\u00fcr Warmwasser",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "1005974",
+        "1702687",
+        "1203686",
+        "7047665",
+        "3598992",
+        "8569584"
+    ],
+    "winnerProducts": [
+        "8569519",
+        "7668908",
+        "2224269"
+    ],
+    "featuredCategories": [
+        "Warmwasserspeicher",
+        "Warmwasserspeicher",
+        "Durchlauferhitzer",
+        "Warmwasserspeicher",
+        "Warmwasserspeicher",
+        "Warmwasserspeicher"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Warmwasser",
-        "featureText": "Your featured text goes here",
+        "featureText": "Das Gesch\u00e4ft ist haupts\u00e4chlich auf Warmwasser ausgerichtet. Im Sortiment finden sich unter anderem Warmwasserboiler, Solaranlagen und W\u00e4rmepumpen. Auch Zubeh\u00f6r wie Isolierungen, Rohrleitungen und Armaturen sind erh\u00e4ltlich.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Warmwasser-Shop: Alles f\u00fcr Ihr Warmwasserbed\u00fcrfnis!",
+            "metaDescription": "Der Shop bietet alles rund um Warmwasser. Vom Boiler \u00fcber die Solaranlage bis hin zum Zubeh\u00f6r.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Warmwasser: Wie es funktioniert und was Sie wissen sollten",
+                    "text": "Warmwasser ist ein wichtiger Bestandteil unseres t\u00e4glichen Lebens. Es ist f\u00fcr die K\u00f6rperpflege, die Zubereitung von Mahlzeiten und viele andere Aktivit\u00e4ten unerl\u00e4sslich. Daher ist es wichtig, dass das Warmwasser in unseren H\u00e4usern und Wohnungen stets verf\u00fcgbar ist.\n\nDoch was ist Warmwasser eigentlich und wie wird es erzeugt? Warmwasser ist Wasser, das auf eine Temperatur von mindestens 37\u00b0C erhitzt wurde. Diese Temperatur ist ideal f\u00fcr die meisten Haushaltsaktivit\u00e4ten. In Deutschland wird Warmwasser \u00fcblicherweise in zentralen Heizungsanlagen erzeugt und dann in die einzelnen Wohnungen und H\u00e4user verteilt.\n\nIn den meisten Haushalten wird das Warmwasser \u00fcber einen Boiler bereitgestellt. Dieser speichert das hei\u00dfe Wasser und gibt es bei Bedarf an die Warmwasserleitungen weiter. So k\u00f6nnen Sie jederzeit auf Warmwasser zugreifen, wenn Sie es ben\u00f6tigen.\n\nIn den letzten Jahren sind jedoch auch immer mehr sogenannte Durchlauferhitzer auf dem Markt. Diese Ger\u00e4te erhitzen das Wasser, sobald es durch sie hindurchflie\u00dft. Dadurch wird es nicht mehr n\u00f6tig, einen gro\u00dfen Boiler zu installieren und das Warmwasser kann direkt an der Dusche oder am Waschbecken erzeugt werden.\n\nWelche Methode der Warmwasserbereitstellung f\u00fcr Sie die beste ist, h\u00e4ngt von verschiedenen Faktoren ab"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Warmwasser Shop",
+            "metaDescription": "Der Shop bietet alles rund um Warmwasser - von der Planung bis zur Installation.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Warmwasser-Hersteller: Die besten Anbieter",
+            "metaDescription": "Warmwasser-Hersteller bieten eine Vielzahl von Produkten f\u00fcr die Erw\u00e4rmung von Wasser in Haushalten und Industrieanlagen.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT: Warmwasser f\u00fcr Ihr Zuhause",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte L\u00f6sung f\u00fcr Ihr Warmwasserbed\u00fcrfnis. $KATEGORIE bietet Ihnen eine gro\u00dfe Auswahl an Produkten, die Ihren Bed\u00fcrfnissen entsprechen.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$KATEGORIE: Die besten Tipps f\u00fcr Warmwasser",
+        "defaultMetaDescription": "$KATEGORIE: Alles rund um Warmwasser - von der Wasserh\u00e4rte bis zur Durchlauferhitzer-Reinigung. Tipps und Tricks f\u00fcr eine optimale Warmwasserversorgung.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER ist Ihr kompetenter Ansprechpartner f\u00fcr Warmwasser. Wir bieten Ihnen hochwertige Produkte und Dienstleistungen rund um das Thema Warmwasser.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Warmwasser",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Warmwasser Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Warmwasser Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
