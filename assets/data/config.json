@@ -51,12 +51,15 @@
             "title": "Warmwasser-Shop: Alles für Ihr Warmwasserbedürfnis!",
             "metaDescription": "Der Shop bietet alles rund um Warmwasser. Vom Boiler über die Solaranlage bis hin zum Zubehör.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Warmwasser: Wie es funktioniert und was Sie wissen sollten",
-                    "text": "Warmwasser ist ein wichtiger Bestandteil unseres täglichen Lebens. Es ist für die Körperpflege, die Zubereitung von Mahlzeiten und viele andere Aktivitäten unerlässlich. Daher ist es wichtig, dass das Warmwasser in unseren Häusern und Wohnungen stets verfügbar ist.\n\nDoch was ist Warmwasser eigentlich und wie wird es erzeugt? Warmwasser ist Wasser, das auf eine Temperatur von mindestens 37°C erhitzt wurde. Diese Temperatur ist ideal für die meisten Haushaltsaktivitäten. In Deutschland wird Warmwasser üblicherweise in zentralen Heizungsanlagen erzeugt und dann in die einzelnen Wohnungen und Häuser verteilt.\n\nIn den meisten Haushalten wird das Warmwasser über einen Boiler bereitgestellt. Dieser speichert das heiße Wasser und gibt es bei Bedarf an die Warmwasserleitungen weiter. So können Sie jederzeit auf Warmwasser zugreifen, wenn Sie es benötigen.\n\nIn den letzten Jahren sind jedoch auch immer mehr sogenannte Durchlauferhitzer auf dem Markt. Diese Geräte erhitzen das Wasser, sobald es durch sie hindurchfließt. Dadurch wird es nicht mehr nötig, einen großen Boiler zu installieren und das Warmwasser kann direkt an der Dusche oder am Waschbecken erzeugt werden.\n\nWelche Methode der Warmwasserbereitstellung für Sie die beste ist, hängt von verschiedenen Faktoren ab"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Warmwasser: Wie es funktioniert und was Sie wissen sollten",
+                        "text": "Warmwasser ist ein wichtiger Bestandteil unseres täglichen Lebens. Es ist für die Körperpflege, die Zubereitung von Mahlzeiten und viele andere Aktivitäten unerlässlich. Daher ist es wichtig, dass das Warmwasser in unseren Häusern und Wohnungen stets verfügbar ist.\n\nDoch was ist Warmwasser eigentlich und wie wird es erzeugt? Warmwasser ist Wasser, das auf eine Temperatur von mindestens 37°C erhitzt wurde. Diese Temperatur ist ideal für die meisten Haushaltsaktivitäten. In Deutschland wird Warmwasser üblicherweise in zentralen Heizungsanlagen erzeugt und dann in die einzelnen Wohnungen und Häuser verteilt.\n\nIn den meisten Haushalten wird das Warmwasser über einen Boiler bereitgestellt. Dieser speichert das heiße Wasser und gibt es bei Bedarf an die Warmwasserleitungen weiter. So können Sie jederzeit auf Warmwasser zugreifen, wenn Sie es benötigen.\n\nIn den letzten Jahren sind jedoch auch immer mehr sogenannte Durchlauferhitzer auf dem Markt. Diese Geräte erhitzen das Wasser, sobald es durch sie hindurchfließt. Dadurch wird es nicht mehr nötig, einen großen Boiler zu installieren und das Warmwasser kann direkt an der Dusche oder am Waschbecken erzeugt werden.\n\nWelche Methode der Warmwasserbereitstellung für Sie die beste ist, hängt von verschiedenen Faktoren ab"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Warmwasser Shop",
