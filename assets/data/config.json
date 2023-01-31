@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "lauwarmes-wasser.de",
     "hostname": "https://www.lauwarmes-wasser.de/",
     "email": "lauwarmes-wasser.de@surrealnetworks.io",
     "organization": "lauwarmes-wasser.de",
     "logoText": "Lauwarmes-wasser.de",
     "title": "Warmwasser",
-    "subline": "Der Online Shop für Warmwasser",
+    "subline": "Der Online Shop für Durchlauferhitzer und Warmwasserspeicher",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Warmwasser",
-        "featureText": "Das Geschäft ist hauptsächlich auf Warmwasser ausgerichtet. Im Sortiment finden sich unter anderem Warmwasserboiler, Solaranlagen und Wärmepumpen. Auch Zubehör wie Isolierungen, Rohrleitungen und Armaturen sind erhältlich.",
+        "featureText": "Willkommen in unserem Shop! Wir haben uns auf die Warmwasserzubereitung im Sanitärbereich spezialisert. In unserem Shop finden Sie eine umfangreiche Zusammenstellung von Durchlauferhitzern und Warmwasserspeichern von Top Herstellern wie Vaillant, Ariston, Regent und vielen mehr. Bei der Auswahl unserer Produkte achten wir stets darauf Tiefstpreise anzubieten. \nKlicken Sie sich gerne durch unseren Shop!",
         "index": {
-            "title": "Warmwasser-Shop: Alles für Ihr Warmwasserbedürfnis!",
-            "metaDescription": "Der Shop bietet alles rund um Warmwasser. Vom Boiler über die Solaranlage bis hin zum Zubehör.",
+            "title": "Warmwasser | Zuhause möglichst günstig und zuverlässig",
+            "metaDescription": "Entdecken Sie energiesparende Produkte für die Warmwasserzubereitung | Durchlauferhitzer und Warmwasserspeicher bei uns erhältlich!",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Warmwasser Shop",
-            "metaDescription": "Der Shop bietet alles rund um Warmwasser - von der Planung bis zur Installation.",
+            "title": "Warmwasser | Der Online Shop für Durchlauferhitzer und Co.",
+            "metaDescription": "Durchlauferhitzer und Warmwasserspeicher einfach bequem online bestellen | Riesige Auswahl | Günstige Preise | Sofort lieferbar | Best-Preis-Garantie.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Warmwasser-Hersteller: Die besten Anbieter",
-            "metaDescription": "Warmwasser-Hersteller bieten eine Vielzahl von Produkten für die Erwärmung von Wasser in Haushalten und Industrieanlagen.",
+            "title": "Warmwasser | Liste aller Hersteller",
+            "metaDescription": "Warmwasser | Durchlauferhitzer und Warmwasserspeicher von Vaillant • Ariston • Regent • Clage • AEG • Stiebel Eltron • Saniself und weiteren Top Herstellern.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT: Warmwasser für Ihr Zuhause",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Lösung für Ihr Warmwasserbedürfnis. $KATEGORIE bietet Ihnen eine große Auswahl an Produkten, die Ihren Bedürfnissen entsprechen.",
+        "defaultTitle": "$PRODUKT",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die Lösung für warmes Wasser in Ihrem Zuhause. Die Kategorie $KATEGORIE bietet Ihnen eine große Auswahl an Produkten für Warmwasser",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Die besten Tipps für Warmwasser",
-        "defaultMetaDescription": "$KATEGORIE: Alles rund um Warmwasser - von der Wasserhärte bis zur Durchlauferhitzer-Reinigung. Tipps und Tricks für eine optimale Warmwasserversorgung.",
+        "defaultTitle": "$KATEGORIE: Die besten Produkte für Warmwasser",
+        "defaultMetaDescription": "$KATEGORIE: Riesige Auswahl an Markenprodukten von Vaillant, Ariston, Regent und Co. | Finden Sie das passende Produkt für Warmwasser in Ihrem Zuhause!",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist Ihr kompetenter Ansprechpartner für Warmwasser. Wir bieten Ihnen hochwertige Produkte und Dienstleistungen rund um das Thema Warmwasser.",
+        "defaultTitle": "$HERSTELLER | Top Qualität & Top Preise",
+        "defaultMetaDescription": "$HERSTELLER ist namhafter Hersteller für Durchlauferhitzer und Warmwasserspeicher. Kaufen Sie nachhaltige Produkte von $HERSTELLER.",
         "defaultRobots": "index, follow",
         "brands": [
             {
