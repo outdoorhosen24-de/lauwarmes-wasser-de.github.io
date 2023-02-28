@@ -52,11 +52,19 @@
             "metaDescription": "Entdecken Sie energiesparende Produkte für die Warmwasserzubereitung | Durchlauferhitzer und Warmwasserspeicher bei uns erhältlich!",
             "robots": "index, follow",
             "seotext": {
-                "published": false,
+                "published": true,
                 "content": [
                     {
-                        "title": "Warmwasser: Wie es funktioniert und was Sie wissen sollten",
-                        "text": "Warmwasser ist ein wichtiger Bestandteil unseres täglichen Lebens. Es ist für die Körperpflege, die Zubereitung von Mahlzeiten und viele andere Aktivitäten unerlässlich. Daher ist es wichtig, dass das Warmwasser in unseren Häusern und Wohnungen stets verfügbar ist.\n\nDoch was ist Warmwasser eigentlich und wie wird es erzeugt? Warmwasser ist Wasser, das auf eine Temperatur von mindestens 37°C erhitzt wurde. Diese Temperatur ist ideal für die meisten Haushaltsaktivitäten. In Deutschland wird Warmwasser üblicherweise in zentralen Heizungsanlagen erzeugt und dann in die einzelnen Wohnungen und Häuser verteilt.\n\nIn den meisten Haushalten wird das Warmwasser über einen Boiler bereitgestellt. Dieser speichert das heiße Wasser und gibt es bei Bedarf an die Warmwasserleitungen weiter. So können Sie jederzeit auf Warmwasser zugreifen, wenn Sie es benötigen.\n\nIn den letzten Jahren sind jedoch auch immer mehr sogenannte Durchlauferhitzer auf dem Markt. Diese Geräte erhitzen das Wasser, sobald es durch sie hindurchfließt. Dadurch wird es nicht mehr nötig, einen großen Boiler zu installieren und das Warmwasser kann direkt an der Dusche oder am Waschbecken erzeugt werden.\n\nWelche Methode der Warmwasserbereitstellung für Sie die beste ist, hängt von verschiedenen Faktoren ab"
+                        "title": "Willkommen bei Lauwarmes-Wasser.de",
+                        "text": "Herzlich willkommen bei Lauwarmes-Wasser.de, Ihrem Online-Shop für Warmwasserprodukte. Wir bieten Ihnen eine breite Auswahl an Durchlauferhitzern und Warmwasserspeichern, die Ihnen dabei helfen, Ihr Zuhause mit lauwarmem Wasser zu versorgen. Unsere Produkte sind von hoher Qualität und bieten Ihnen eine zuverlässige Lösung für Ihre Warmwasserbedürfnisse. Schauen Sie sich gerne in unserem Shop um und finden Sie das perfekte Produkt für Ihr Zuhause."
+                    },
+                    {
+                        "title": "Durchlauferhitzer - Die perfekte Lösung für Warmwasser",
+                        "text": "Sie suchen eine praktische und effiziente Lösung für warmes Wasser in Ihrem Zuhause? Dann sind Durchlauferhitzer die perfekte Wahl für Sie. In unserem Online-Shop bieten wir eine breite Auswahl an hochwertigen Durchlauferhitzern, die für jeden Bedarf und jedes Budget geeignet sind. Durch den Einsatz eines Durchlauferhitzers wird das Wasser direkt beim Durchfließen erwärmt und Sie haben sofort Zugang zu warmem Wasser. Entdecken Sie jetzt unser Angebot an Durchlauferhitzern und genießen Sie jederzeit warmes Wasser!"
+                    },
+                    {
+                        "title": "Warmwasserspeicher - Eine langlebige Lösung für Warmwasser",
+                        "text": "Sie benötigen eine Lösung für warmes Wasser, die lange hält und eine große Menge bereitstellen kann? Dann sind Warmwasserspeicher die perfekte Wahl für Sie. In unserem Online-Shop bieten wir eine breite Auswahl an hochwertigen Warmwasserspeichern, die für jeden Bedarf und jedes Budget geeignet sind. Mit einem Warmwasserspeicher haben Sie immer ausreichend warmes Wasser zur Verfügung und müssen sich nie mehr Gedanken über dessen Verfügbarkeit machen. Entdecken Sie jetzt unser Angebot an Warmwasserspeichern und genießen Sie jederzeit warmes Wasser!"
                     }
                 ]
             }
