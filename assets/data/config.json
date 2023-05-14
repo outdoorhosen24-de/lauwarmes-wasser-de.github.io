@@ -1,241 +1,248 @@
 {
-  "configIsReady": true,
-  "domain": "lauwarmes-wasser.de",
-  "hostname": "https://www.lauwarmes-wasser.de/",
-  "email": "lauwarmes-wasser.de@surrealnetworks.io",
-  "organization": "lauwarmes-wasser.de",
-  "logoText": "Lauwarmes-wasser.de",
-  "title": "Warmwasser",
-  "subline": "Der Online Shop für Durchlauferhitzer und Warmwasserspeicher",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "1005974",
-    "1702687",
-    "1203686",
-    "7047665",
-    "3598992",
-    "8569584"
-  ],
-  "winnerProducts": [
-    "8569519",
-    "7668908",
-    "2224269"
-  ],
-  "featuredCategories": [
-    "Warmwasserspeicher",
-    "Warmwasserspeicher",
-    "Durchlauferhitzer",
-    "Warmwasserspeicher",
-    "Warmwasserspeicher",
-    "Warmwasserspeicher"
-  ],
-  "socialMediaAccounts": [],
-  "imageQuality": 90,
-  "checklist": [
-    "Material",
-    "Komfort",
-    "Funktion",
-    "Haltbarkeit"
-  ],
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Warmwasser",
-    "featureText": "Willkommen in unserem Shop! Wir haben uns auf die Warmwasserzubereitung im Sanitärbereich spezialisert. In unserem Shop finden Sie eine umfangreiche Zusammenstellung von Durchlauferhitzern und Warmwasserspeichern von Top Herstellern wie Vaillant, Ariston, Regent und vielen mehr. Bei der Auswahl unserer Produkte achten wir stets darauf Tiefstpreise anzubieten. \nKlicken Sie sich gerne durch unseren Shop!",
-    "index": {
-      "title": "Warmwasser | Zuhause möglichst günstig und zuverlässig",
-      "metaDescription": "Entdecken Sie energiesparende Produkte für die Warmwasserzubereitung | Durchlauferhitzer und Warmwasserspeicher bei uns erhältlich!",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Willkommen bei Lauwarmes-Wasser.de",
-            "text": "Herzlich willkommen bei Lauwarmes-Wasser.de, Ihrem Online-Shop für Warmwasserprodukte. Wir bieten Ihnen eine breite Auswahl an Durchlauferhitzern und Warmwasserspeichern, die Ihnen dabei helfen, Ihr Zuhause mit lauwarmem Wasser zu versorgen. Unsere Produkte sind von hoher Qualität und bieten Ihnen eine zuverlässige Lösung für Ihre Warmwasserbedürfnisse. Schauen Sie sich gerne in unserem Shop um und finden Sie das perfekte Produkt für Ihr Zuhause."
-          },
-          {
-            "title": "Durchlauferhitzer - Die perfekte Lösung für Warmwasser",
-            "text": "Sie suchen eine praktische und effiziente Lösung für warmes Wasser in Ihrem Zuhause? Dann sind Durchlauferhitzer die perfekte Wahl für Sie. In unserem Online-Shop bieten wir eine breite Auswahl an hochwertigen Durchlauferhitzern, die für jeden Bedarf und jedes Budget geeignet sind. Durch den Einsatz eines Durchlauferhitzers wird das Wasser direkt beim Durchfließen erwärmt und Sie haben sofort Zugang zu warmem Wasser. Entdecken Sie jetzt unser Angebot an Durchlauferhitzern und genießen Sie jederzeit warmes Wasser!"
-          },
-          {
-            "title": "Warmwasserspeicher - Eine langlebige Lösung für Warmwasser",
-            "text": "Sie benötigen eine Lösung für warmes Wasser, die lange hält und eine große Menge bereitstellen kann? Dann sind Warmwasserspeicher die perfekte Wahl für Sie. In unserem Online-Shop bieten wir eine breite Auswahl an hochwertigen Warmwasserspeichern, die für jeden Bedarf und jedes Budget geeignet sind. Mit einem Warmwasserspeicher haben Sie immer ausreichend warmes Wasser zur Verfügung und müssen sich nie mehr Gedanken über dessen Verfügbarkeit machen. Entdecken Sie jetzt unser Angebot an Warmwasserspeichern und genießen Sie jederzeit warmes Wasser!"
-          }
-        ]
-      }
+    "configIsReady": true,
+    "domain": "lauwarmes-wasser.de",
+    "hostname": "https://www.lauwarmes-wasser.de/",
+    "email": "lauwarmes-wasser.de@surrealnetworks.io",
+    "organization": "lauwarmes-wasser.de",
+    "logoText": "Lauwarmes-wasser.de",
+    "title": "Warmwasser",
+    "subline": "Der Online Shop für Durchlauferhitzer und Warmwasserspeicher",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "1005974",
+        "1702687",
+        "1203686",
+        "7047665",
+        "3598992",
+        "8569584"
+    ],
+    "winnerProducts": [
+        "8569519",
+        "7668908",
+        "2224269"
+    ],
+    "featuredCategories": [
+        "Warmwasserspeicher",
+        "Warmwasserspeicher",
+        "Durchlauferhitzer",
+        "Warmwasserspeicher",
+        "Warmwasserspeicher",
+        "Warmwasserspeicher"
+    ],
+    "socialMediaAccounts": [],
+    "imageQuality": 90,
+    "checklist": [
+        "Material",
+        "Komfort",
+        "Funktion",
+        "Haltbarkeit"
+    ],
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Warmwasser",
+        "featureText": "Willkommen in unserem Shop! Wir haben uns auf die Warmwasserzubereitung im Sanitärbereich spezialisert. In unserem Shop finden Sie eine umfangreiche Zusammenstellung von Durchlauferhitzern und Warmwasserspeichern von Top Herstellern wie Vaillant, Ariston, Regent und vielen mehr. Bei der Auswahl unserer Produkte achten wir stets darauf Tiefstpreise anzubieten. \nKlicken Sie sich gerne durch unseren Shop!",
+        "index": {
+            "title": "Warmwasser | Zuhause möglichst günstig und zuverlässig",
+            "metaDescription": "Entdecken Sie energiesparende Produkte für die Warmwasserzubereitung | Durchlauferhitzer und Warmwasserspeicher bei uns erhältlich!",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Lauwarmes-Wasser.de",
+                        "text": "Herzlich willkommen bei Lauwarmes-Wasser.de, Ihrem Online-Shop für Warmwasserprodukte. Wir bieten Ihnen eine breite Auswahl an Durchlauferhitzern und Warmwasserspeichern, die Ihnen dabei helfen, Ihr Zuhause mit lauwarmem Wasser zu versorgen. Unsere Produkte sind von hoher Qualität und bieten Ihnen eine zuverlässige Lösung für Ihre Warmwasserbedürfnisse. Schauen Sie sich gerne in unserem Shop um und finden Sie das perfekte Produkt für Ihr Zuhause."
+                    },
+                    {
+                        "title": "Durchlauferhitzer - Die perfekte Lösung für Warmwasser",
+                        "text": "Sie suchen eine praktische und effiziente Lösung für warmes Wasser in Ihrem Zuhause? Dann sind Durchlauferhitzer die perfekte Wahl für Sie. In unserem Online-Shop bieten wir eine breite Auswahl an hochwertigen Durchlauferhitzern, die für jeden Bedarf und jedes Budget geeignet sind. Durch den Einsatz eines Durchlauferhitzers wird das Wasser direkt beim Durchfließen erwärmt und Sie haben sofort Zugang zu warmem Wasser. Entdecken Sie jetzt unser Angebot an Durchlauferhitzern und genießen Sie jederzeit warmes Wasser!"
+                    },
+                    {
+                        "title": "Warmwasserspeicher - Eine langlebige Lösung für Warmwasser",
+                        "text": "Sie benötigen eine Lösung für warmes Wasser, die lange hält und eine große Menge bereitstellen kann? Dann sind Warmwasserspeicher die perfekte Wahl für Sie. In unserem Online-Shop bieten wir eine breite Auswahl an hochwertigen Warmwasserspeichern, die für jeden Bedarf und jedes Budget geeignet sind. Mit einem Warmwasserspeicher haben Sie immer ausreichend warmes Wasser zur Verfügung und müssen sich nie mehr Gedanken über dessen Verfügbarkeit machen. Entdecken Sie jetzt unser Angebot an Warmwasserspeichern und genießen Sie jederzeit warmes Wasser!"
+                    }
+                ]
+            }
+        },
+        "shop": {
+            "title": "Warmwasser | Der Online Shop für Durchlauferhitzer und Co.",
+            "metaDescription": "Durchlauferhitzer und Warmwasserspeicher einfach bequem online bestellen | Riesige Auswahl | Günstige Preise | Sofort lieferbar | Best-Preis-Garantie.",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Warmwasser | Liste aller Hersteller",
+            "metaDescription": "Warmwasser | Durchlauferhitzer und Warmwasserspeicher von Vaillant • Ariston • Regent • Clage • AEG • Stiebel Eltron • Saniself und weiteren Top Herstellern.",
+            "robots": "index, follow"
+        }
     },
-    "shop": {
-      "title": "Warmwasser | Der Online Shop für Durchlauferhitzer und Co.",
-      "metaDescription": "Durchlauferhitzer und Warmwasserspeicher einfach bequem online bestellen | Riesige Auswahl | Günstige Preise | Sofort lieferbar | Best-Preis-Garantie.",
-      "robots": "index, follow"
-    },
-    "hersteller": {
-      "title": "Warmwasser | Liste aller Hersteller",
-      "metaDescription": "Warmwasser | Durchlauferhitzer und Warmwasserspeicher von Vaillant • Ariston • Regent • Clage • AEG • Stiebel Eltron • Saniself und weiteren Top Herstellern.",
-      "robots": "index, follow"
-    }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT",
-    "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die Lösung für warmes Wasser in Ihrem Zuhause. Die Kategorie $KATEGORIE bietet Ihnen eine große Auswahl an Produkten für Warmwasser",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "8569519",
-        "seo": {
-          "texts": [
+    "productSeo": {
+        "defaultTitle": "$PRODUKT",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die Lösung für warmes Wasser in Ihrem Zuhause. Die Kategorie $KATEGORIE bietet Ihnen eine große Auswahl an Produkten für Warmwasser",
+        "defaultRobots": "index, follow",
+        "products": [
             {
-              "title": "Clage Kompaktdurchlauferhitzer CDX-11U 11 kW - Effiziente Warmwasserversorgung für Ihre Küche",
-              "text": "<p class=\"justify\">Der Clage Kompaktdurchlauferhitzer CDX-11U 11 kW ist ein elektronisch gesteuerter Durchlauferhitzer aus dem Hause Clage, einer renommierten Marke im Bereich Warmwasser und Durchlauferhitzer. Dieses leistungsstarke Gerät ist speziell für die Warmwasserversorgung von einer oder zwei Zapfstellen konzipiert, wie zum Beispiel einer Küchenspüle oder zwei Waschbecken.</p><p class=\"justify\">Mit einer Leistung von 11 kW liefert der CDX-11U jederzeit ausreichend warmes Wasser und überzeugt durch sein kompaktes Design, das sich ideal für den Einsatz unter der Spüle oder im Schrank eignet. Die Auslauftemperatur kann dabei intern bis zu 50°C eingestellt werden, um den individuellen Bedürfnissen der Nutzer gerecht zu werden. Die druckfeste Bauart sorgt für eine hohe Betriebssicherheit und Langlebigkeit.</p><p class=\"justify\">Der Clage Kompaktdurchlauferhitzer CDX-11U 11 kW ist einfach zu installieren – im Lieferumfang enthalten sind ein Anschlussset bestehend aus einem T-Stück 3/8\\\" und einem Druckschlauch 3/8\\\" x 50 cm. Die außenliegenden Wasseranschlüsse 3/8\\\" ermöglichen eine druckfeste oder drucklose Installation direkt an die Armatur.</p><p class=\"justify\">Mit mehr als 400 zufriedenen Kundenbewertungen und einer 4-Sterne-Bewertung ist der Clage Kompaktdurchlauferhitzer CDX-11U 11 kW zweifellos eine hervorragende Wahl für alle, die auf der Suche nach einer effizienten und zuverlässigen Warmwasserversorgungslösung sind. Greifen Sie daher zu diesem erstklassigen Produkt, um stets warmes Wasser in Ihrer Küche oder Ihrem Badezimmer zur Verfügung zu haben. Die Kombination aus Leistung, Design und Benutzerfreundlichkeit macht den Clage Kompaktdurchlauferhitzer CDX-11U 11 kW zu einer unschlagbaren Lösung für Ihre Warmwasseranforderungen.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "7668908",
-        "seo": {
-          "texts": [
-            {
-              "title": "Stiebel Eltron Durchlauferhitzer DEL PLUS 18/ 21/ 24 kW",
-              "text": "<p class=\"justify\">Der Stiebel Eltron Durchlauferhitzer DEL PLUS 18/ 21/ 24 kW ist ein hochwertiger und effizienter Durchlauferhitzer, der sich perfekt für Küche und Warmwasserbereitung eignet. Die elektronische Regelung des Geräts ermöglicht eine gradgenaue Temperatureinstellung im Bereich von 30 °C bis 60 °C, die in 0,5 °C Schritten über einen Drehregler vorgenommen werden kann. Das Gerät überzeugt durch seine Flexibilität, da bei der Installation die Leistungsaufnahme von 18 kW, 21 kW oder 24 kW gewählt werden kann.</p><p class=\"justify\">Ein besonderes Merkmal dieses Durchlauferhitzers ist der Verbrühschutz, der bei einer Temperatur von 43 °C einstellbar ist. Somit wird die Sicherheit beim Gebrauch erhöht. Des Weiteren verfügt das Gerät über ein elektronisches Sicherheitssystem mit Lufterkennung und einem Blankdraht-Heizsystem im druckfesten Kupfermantel. Der Stiebel Eltron Durchlauferhitzer DEL PLUS hat die Energieeffizienzklasse A und trägt damit zu einer verbesserten Energiebilanz bei.</p><p class=\"justify\">Die Maße des Geräts betragen (H × B × T): 46,6 cm × 22,5 cm × 11,6 cm und es wiegt 3,1 kg. Die Schutzklasse IP 25 stellt sicher, dass das Gerät vor Spritzwasser geschützt ist. Zudem verfügt der Durchlauferhitzer über 2 Memorytasten, die eine individuelle Einstellung ermöglichen. Optional kann eine Funkfernbedienung als Sonderzubehör erworben werden, die eine bequeme Steuerung des Geräts aus der Ferne ermöglicht.</p><p class=\"justify\">Stiebel Eltron ist eine renommierte Marke, die für Qualität und Zuverlässigkeit steht. Der Durchlauferhitzer DEL PLUS 18/ 21/ 24 kW ist ein Beweis für das Engagement des Unternehmens, hochwertige und energieeffiziente Produkte für den täglichen Gebrauch zu entwickeln. Dieses Gerät wird sicherlich den Komfort und die Effizienz in Küche und Warmwasserbereitung erhöhen und dabei gleichzeitig Energiekosten sparen.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "2224269",
-        "seo": {
-          "texts": [
-            {
-              "title": "Gorenje Warmwasserspeicher TGR30ND 30 Liter",
-              "text": "<p class=\"justify\">Der Gorenje Warmwasserspeicher TGR30ND 30 Liter ist eine ausgezeichnete Wahl für alle, die auf der Suche nach einer effizienten und zuverlässigen Warmwasserlösung sind. Dieses Modell aus dem Hause Gorenje besticht durch seine erstklassige Verarbeitung und hohe Leistungsfähigkeit bei gleichzeitig kompakten Abmessungen, sodass es ideal für Single-Haushalte oder Räumlichkeiten mit begrenztem Platzangebot geeignet ist.</p><p class=\"justify\">Das Warmwasserspeichergerät verfügt über einen emaillierten Stahlblechkessel und einen Korrosionsschutz durch eine Magnesium-Anode. Dies garantiert eine lange Lebensdauer und schützt den Kessel vor Korrosion. Der Gorenje Warmwasserspeicher TGR30ND hat ein Speichervolumen von 30 Litern und eignet sich somit hervorragend für eine oder mehrere Abnahmestellen.</p><p class=\"justify\">Das Gerät ist mit einem Thermostat ausgestattet, welches eine Temperaturspanne von 10 bis 65 °C ermöglicht und sich individuell an die Bedürfnisse der Nutzer anpassen lässt. Eine Kontrollleuchte und eine Frostschutz-Einstellung sorgen zudem dafür, dass die Sicherheit und der Komfort bei der Nutzung des Warmwasserspeichers stets gewährleistet sind.</p><p class=\"justify\">Der Gorenje Warmwasserspeicher TGR30ND verfügt über eine Warmwasserbereitungs-Energieeffizienzklasse von C und einen jährlichen Stromverbrauch von 558 kWh. Mit einem Schallleistungspegel von nur 15 dB ist das Gerät zudem äußerst leise im Betrieb. Um den Warmwasserspeicher in vollem Umfang nutzen zu können, benötigen Sie eine Sicherheitsgruppe und ein Druckreduzierventil > 5 Bar.</p><p class=\"justify\">Wenn Sie sich für den Gorenje Warmwasserspeicher TGR30ND 30 Liter entscheiden, erhalten Sie ein hochwertiges und leistungsstarkes Produkt, das Ihren Warmwasserkomfort auf ein neues Niveau heben wird. Vertrauen Sie auf die Qualität und Erfahrung eines renommierten Herstellers wie Gorenje und genießen Sie zuverlässige und effiziente Warmwasserbereitstellung in Ihrem Zuhause.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "2513034",
-        "seo": {
-          "texts": [
-            {
-              "title": "Ariston Warmwasserspeicher Regent REG80 VR PL EU 80 Liter EEK: C - Eine effiziente Lösung für Ihr Zuhause",
-              "text": "<p class=\"justify\">Der Ariston Warmwasserspeicher Regent REG80 VR PL EU mit 80 Litern Fassungsvermögen und Energieeffizienzklasse C ist eine hervorragende Lösung für die Versorgung mehrerer Zapfstellen mit warmem Wasser in Ihrem Zuhause. Die renommierte Marke Ariston ist bekannt für ihre hochwertigen Warmwasserspeicher und bietet mit diesem Modell eine zuverlässige Option für Küchen und Badezimmer.</p><p class=\"justify\">Mit einer stufenlos einstellbaren Temperatur bis 75°C und einer Leistung von 1,5 kW ist dieser Warmwasserspeicher äußerst effizient und ermöglicht kurze Aufheizzeiten. In nur 2 Stunden und 56 Minuten ist das Wasser vollständig erhitzt und bereit zum Verbrauch. Das Nettogewicht des Warmwasserspeichers beträgt 21 kg und ist dank seiner kompakten Größe leicht zu montieren.</p><p class=\"justify\">Zudem ist das Design des Ariston Warmwasserspeichers ästhetisch ansprechend und fügt sich nahtlos in jede Inneneinrichtung ein. Die hohe Produktqualität zeigt sich auch in der beeindruckenden Anzahl der positiven Bewertungen und einer durchschnittlichen Bewertung von 5 Sternen.</p><p class=\"justify\">Der druckfeste Hängespeicher ist ideal für die Versorgung mehrerer Entnahmestellen, was Ihnen Komfort und endloses warmes Wasser bietet. Mit der innovativen Technologie und bewährten Zuverlässigkeit ist der Ariston Warmwasserspeicher Regent REG80 VR PL EU 80 Liter ein großartiges Produkt für jedes Zuhause. Die Energieeffizienzklasse C gewährleistet eine effiziente Nutzung von Energie und spart Ihnen nicht nur Geld, sondern schont auch die Umwelt.</p><p class=\"justify\">Insgesamt bietet der Ariston Warmwasserspeicher Regent REG80 VR PL EU 80 Liter EEK: C eine ausgezeichnete Wahl für all jene, die auf der Suche nach einem effizienten und zuverlässigen Warmwasserspeicher sind. Die Kombination aus Leistung, Energieeffizienz und Langlebigkeit macht dieses Produkt zu einer hervorragenden Investition für Ihr Zuhause und sorgt für ein kontinuierliches Angebot an warmem Wasser, wann immer Sie es benötigen.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "2513026",
-        "seo": {
-          "texts": [
-            {
-              "title": "Ariston Warmwasserspeicher Regent REG50 VR PL EU 50 Liter EEK: C",
-              "text": "<p class=\"justify\">Der Ariston Warmwasserspeicher Regent REG50 VR PL EU 50 Liter EEK: C wurde speziell entwickelt, um Ihnen effizient und zuverlässig warmes Wasser in Ihrem Zuhause zu bieten. Mit seiner hervorragenden Energieeffizienzklasse C bietet dieser Warmwasserspeicher von Ariston eine umweltfreundliche und kosteneffiziente Lösung für Ihren Warmwasserbedarf. Ausgestattet mit der bewährten Qualität der Marke Ariston und mit einer hohen Kundenzufriedenheit von 4 Sternen, garantiert dieses Gerät Langlebigkeit und hohe Leistung.</p><p class=\"justify\">Der druckfeste Hängespeicher bietet eine Kapazität von 50 Litern und ist somit ideal zur Versorgung mehrerer Zapfstellen in Ihrer Küche, Ihrem Bad oder anderen Räumen geeignet. Die Temperaturauswahl erfolgt stufenlos bis 75 °C, sodass Sie die Temperatur des Wassers ganz nach Ihren Bedürfnissen anpassen können. Mit einer Leistung von 1,5 kW beträgt die Aufheizzeit lediglich 1 Stunde und 50 Minuten - damit genießen Sie schnell angenehm warmes Wasser.</p><p class=\"justify\">Ein weiterer Pluspunkt des Ariston Warmwasserspeichers ist das Nettogewicht von nur 16 kg, was die Montage und den Transport des Geräts erleichtert. Darüber hinaus ist das Design des Hängespeichers elegant und dezent, sodass es sich problemlos in jede Einrichtung integrieren lässt. Die GTIN13 des Produkts lautet 5414849693005 und der Artikel ist unter der SKU 2513026 gelistet.</p><p class=\"justify\">Insgesamt ist der Ariston Warmwasserspeicher Regent REG50 VR PL EU 50 Liter EEK: C eine ausgezeichnete Wahl für jeden, der eine zuverlässige und umweltfreundliche Lösung zur Versorgung mit Warmwasser sucht. Sie können sich darauf verlassen, dass dieser leistungsstarke und energieeffiziente Warmwasserspeicher Sie über viele Jahre hinweg in Ihrem Zuhause begleiten wird.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "6046221",
-        "seo": {
-          "texts": [
-            {
-              "title": "Ariston Hängespeicher REG30 O EEK: C 2 kW - Warmwasserspeicher",
-              "text": "<p class=\"justify\">Der Ariston Hängespeicher REG30 O EEK: C 2 kW ist ein hochwertiger Warmwasserspeicher für den Einsatz in der Küche und bietet eine effiziente Lösung für die Warmwasserversorgung. Mit einer Kapazität von 30 Litern und einer Leistung von 2 kW ist dieser Hängespeicher ideal für den täglichen Gebrauch geeignet. Die Energieeffizienzklasse C zeigt, dass das Gerät energieeffizient arbeitet und dabei den Energieverbrauch in Grenzen hält.</p><p class=\"justify\">Ein besonderes Merkmal des Hängespeichers ist der Innenbehälter aus emailliertem Stahlblech, der für eine hohe Langlebigkeit und erhöhte Korrosionsbeständigkeit sorgt. Der Wärmespeicher kann einen Betriebsdruck von bis zu 8 bar erreichen und ist sowohl für druckfeste (geschlossene) als auch für drucklose (offene) Systeme einsetzbar. Dank der PU-Hartschaumisolierung bleibt das Wasser im Behälter länger warm und der Energieverbrauch wird weiter gesenkt.</p><p class=\"justify\">Die Temperaturregulierung erfolgt über ein Thermostat mit Überhitzungsschutz, das für ein sicheres und präzises Einstellen der gewünschten Wassertemperatur sorgt. Zusätzlich ist der Temperaturwähler des Ariston Hängespeichers REG30 O EEK: C 2 kW mit einer Energie-Sparstellung und einer Frostschutzstellung bei 7 °C ausgestattet. Der Korrosionsschutz durch Emaillierung und Magnesiumschutzanode gewährleistet eine lange Lebensdauer des Geräts.</p><p class=\"justify\">Die IP-Klassifizierung IP 24D zeigt, dass dieser Warmwasserspeicher vor Spritzwasser geschützt ist und somit sicher im feuchten Umfeld einer Küche installiert werden kann. Der Ariston Hängespeicher REG30 O EEK: C 2 kW ist ideal für alle, die eine zuverlässige und effiziente Lösung für die Warmwasserversorgung in ihren vier Wänden suchen.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "$KATEGORIE: Die besten Produkte für Warmwasser",
-    "defaultMetaDescription": "$KATEGORIE: Riesige Auswahl an Markenprodukten von Vaillant, Ariston, Regent und Co. | Finden Sie das passende Produkt für Warmwasser in Ihrem Zuhause!",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "sporthosen",
-        "slug": "sporthosen",
-        "name": "Sporthosen",
-        "seo": {
-          "title": "Sporthosen günstig kaufen",
-          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-          "robots": "index, follow",
-          "texts": [
-            {
-              "title": "Title of a SEO Text for sporthosen",
-              "text": "Text of a SEO Text for sporthosen"
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             },
             {
-              "title": "New title for sporthosen",
-              "text": "new text for sporthosen"
+                "sku": "8569519",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Clage Kompaktdurchlauferhitzer CDX-11U 11 kW - Effiziente Warmwasserversorgung für Ihre Küche",
+                            "text": "<p class=\"justify\">Der Clage Kompaktdurchlauferhitzer CDX-11U 11 kW ist ein elektronisch gesteuerter Durchlauferhitzer aus dem Hause Clage, einer renommierten Marke im Bereich Warmwasser und Durchlauferhitzer. Dieses leistungsstarke Gerät ist speziell für die Warmwasserversorgung von einer oder zwei Zapfstellen konzipiert, wie zum Beispiel einer Küchenspüle oder zwei Waschbecken.</p><p class=\"justify\">Mit einer Leistung von 11 kW liefert der CDX-11U jederzeit ausreichend warmes Wasser und überzeugt durch sein kompaktes Design, das sich ideal für den Einsatz unter der Spüle oder im Schrank eignet. Die Auslauftemperatur kann dabei intern bis zu 50°C eingestellt werden, um den individuellen Bedürfnissen der Nutzer gerecht zu werden. Die druckfeste Bauart sorgt für eine hohe Betriebssicherheit und Langlebigkeit.</p><p class=\"justify\">Der Clage Kompaktdurchlauferhitzer CDX-11U 11 kW ist einfach zu installieren – im Lieferumfang enthalten sind ein Anschlussset bestehend aus einem T-Stück 3/8\\\" und einem Druckschlauch 3/8\\\" x 50 cm. Die außenliegenden Wasseranschlüsse 3/8\\\" ermöglichen eine druckfeste oder drucklose Installation direkt an die Armatur.</p><p class=\"justify\">Mit mehr als 400 zufriedenen Kundenbewertungen und einer 4-Sterne-Bewertung ist der Clage Kompaktdurchlauferhitzer CDX-11U 11 kW zweifellos eine hervorragende Wahl für alle, die auf der Suche nach einer effizienten und zuverlässigen Warmwasserversorgungslösung sind. Greifen Sie daher zu diesem erstklassigen Produkt, um stets warmes Wasser in Ihrer Küche oder Ihrem Badezimmer zur Verfügung zu haben. Die Kombination aus Leistung, Design und Benutzerfreundlichkeit macht den Clage Kompaktdurchlauferhitzer CDX-11U 11 kW zu einer unschlagbaren Lösung für Ihre Warmwasseranforderungen.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "7668908",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Stiebel Eltron Durchlauferhitzer DEL PLUS 18/ 21/ 24 kW",
+                            "text": "<p class=\"justify\">Der Stiebel Eltron Durchlauferhitzer DEL PLUS 18/ 21/ 24 kW ist ein hochwertiger und effizienter Durchlauferhitzer, der sich perfekt für Küche und Warmwasserbereitung eignet. Die elektronische Regelung des Geräts ermöglicht eine gradgenaue Temperatureinstellung im Bereich von 30 °C bis 60 °C, die in 0,5 °C Schritten über einen Drehregler vorgenommen werden kann. Das Gerät überzeugt durch seine Flexibilität, da bei der Installation die Leistungsaufnahme von 18 kW, 21 kW oder 24 kW gewählt werden kann.</p><p class=\"justify\">Ein besonderes Merkmal dieses Durchlauferhitzers ist der Verbrühschutz, der bei einer Temperatur von 43 °C einstellbar ist. Somit wird die Sicherheit beim Gebrauch erhöht. Des Weiteren verfügt das Gerät über ein elektronisches Sicherheitssystem mit Lufterkennung und einem Blankdraht-Heizsystem im druckfesten Kupfermantel. Der Stiebel Eltron Durchlauferhitzer DEL PLUS hat die Energieeffizienzklasse A und trägt damit zu einer verbesserten Energiebilanz bei.</p><p class=\"justify\">Die Maße des Geräts betragen (H × B × T): 46,6 cm × 22,5 cm × 11,6 cm und es wiegt 3,1 kg. Die Schutzklasse IP 25 stellt sicher, dass das Gerät vor Spritzwasser geschützt ist. Zudem verfügt der Durchlauferhitzer über 2 Memorytasten, die eine individuelle Einstellung ermöglichen. Optional kann eine Funkfernbedienung als Sonderzubehör erworben werden, die eine bequeme Steuerung des Geräts aus der Ferne ermöglicht.</p><p class=\"justify\">Stiebel Eltron ist eine renommierte Marke, die für Qualität und Zuverlässigkeit steht. Der Durchlauferhitzer DEL PLUS 18/ 21/ 24 kW ist ein Beweis für das Engagement des Unternehmens, hochwertige und energieeffiziente Produkte für den täglichen Gebrauch zu entwickeln. Dieses Gerät wird sicherlich den Komfort und die Effizienz in Küche und Warmwasserbereitung erhöhen und dabei gleichzeitig Energiekosten sparen.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "2224269",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Gorenje Warmwasserspeicher TGR30ND 30 Liter",
+                            "text": "<p class=\"justify\">Der Gorenje Warmwasserspeicher TGR30ND 30 Liter ist eine ausgezeichnete Wahl für alle, die auf der Suche nach einer effizienten und zuverlässigen Warmwasserlösung sind. Dieses Modell aus dem Hause Gorenje besticht durch seine erstklassige Verarbeitung und hohe Leistungsfähigkeit bei gleichzeitig kompakten Abmessungen, sodass es ideal für Single-Haushalte oder Räumlichkeiten mit begrenztem Platzangebot geeignet ist.</p><p class=\"justify\">Das Warmwasserspeichergerät verfügt über einen emaillierten Stahlblechkessel und einen Korrosionsschutz durch eine Magnesium-Anode. Dies garantiert eine lange Lebensdauer und schützt den Kessel vor Korrosion. Der Gorenje Warmwasserspeicher TGR30ND hat ein Speichervolumen von 30 Litern und eignet sich somit hervorragend für eine oder mehrere Abnahmestellen.</p><p class=\"justify\">Das Gerät ist mit einem Thermostat ausgestattet, welches eine Temperaturspanne von 10 bis 65 °C ermöglicht und sich individuell an die Bedürfnisse der Nutzer anpassen lässt. Eine Kontrollleuchte und eine Frostschutz-Einstellung sorgen zudem dafür, dass die Sicherheit und der Komfort bei der Nutzung des Warmwasserspeichers stets gewährleistet sind.</p><p class=\"justify\">Der Gorenje Warmwasserspeicher TGR30ND verfügt über eine Warmwasserbereitungs-Energieeffizienzklasse von C und einen jährlichen Stromverbrauch von 558 kWh. Mit einem Schallleistungspegel von nur 15 dB ist das Gerät zudem äußerst leise im Betrieb. Um den Warmwasserspeicher in vollem Umfang nutzen zu können, benötigen Sie eine Sicherheitsgruppe und ein Druckreduzierventil > 5 Bar.</p><p class=\"justify\">Wenn Sie sich für den Gorenje Warmwasserspeicher TGR30ND 30 Liter entscheiden, erhalten Sie ein hochwertiges und leistungsstarkes Produkt, das Ihren Warmwasserkomfort auf ein neues Niveau heben wird. Vertrauen Sie auf die Qualität und Erfahrung eines renommierten Herstellers wie Gorenje und genießen Sie zuverlässige und effiziente Warmwasserbereitstellung in Ihrem Zuhause.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "2513034",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Ariston Warmwasserspeicher Regent REG80 VR PL EU 80 Liter EEK: C - Eine effiziente Lösung für Ihr Zuhause",
+                            "text": "<p class=\"justify\">Der Ariston Warmwasserspeicher Regent REG80 VR PL EU mit 80 Litern Fassungsvermögen und Energieeffizienzklasse C ist eine hervorragende Lösung für die Versorgung mehrerer Zapfstellen mit warmem Wasser in Ihrem Zuhause. Die renommierte Marke Ariston ist bekannt für ihre hochwertigen Warmwasserspeicher und bietet mit diesem Modell eine zuverlässige Option für Küchen und Badezimmer.</p><p class=\"justify\">Mit einer stufenlos einstellbaren Temperatur bis 75°C und einer Leistung von 1,5 kW ist dieser Warmwasserspeicher äußerst effizient und ermöglicht kurze Aufheizzeiten. In nur 2 Stunden und 56 Minuten ist das Wasser vollständig erhitzt und bereit zum Verbrauch. Das Nettogewicht des Warmwasserspeichers beträgt 21 kg und ist dank seiner kompakten Größe leicht zu montieren.</p><p class=\"justify\">Zudem ist das Design des Ariston Warmwasserspeichers ästhetisch ansprechend und fügt sich nahtlos in jede Inneneinrichtung ein. Die hohe Produktqualität zeigt sich auch in der beeindruckenden Anzahl der positiven Bewertungen und einer durchschnittlichen Bewertung von 5 Sternen.</p><p class=\"justify\">Der druckfeste Hängespeicher ist ideal für die Versorgung mehrerer Entnahmestellen, was Ihnen Komfort und endloses warmes Wasser bietet. Mit der innovativen Technologie und bewährten Zuverlässigkeit ist der Ariston Warmwasserspeicher Regent REG80 VR PL EU 80 Liter ein großartiges Produkt für jedes Zuhause. Die Energieeffizienzklasse C gewährleistet eine effiziente Nutzung von Energie und spart Ihnen nicht nur Geld, sondern schont auch die Umwelt.</p><p class=\"justify\">Insgesamt bietet der Ariston Warmwasserspeicher Regent REG80 VR PL EU 80 Liter EEK: C eine ausgezeichnete Wahl für all jene, die auf der Suche nach einem effizienten und zuverlässigen Warmwasserspeicher sind. Die Kombination aus Leistung, Energieeffizienz und Langlebigkeit macht dieses Produkt zu einer hervorragenden Investition für Ihr Zuhause und sorgt für ein kontinuierliches Angebot an warmem Wasser, wann immer Sie es benötigen.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "2513026",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Ariston Warmwasserspeicher Regent REG50 VR PL EU 50 Liter EEK: C",
+                            "text": "<p class=\"justify\">Der Ariston Warmwasserspeicher Regent REG50 VR PL EU 50 Liter EEK: C wurde speziell entwickelt, um Ihnen effizient und zuverlässig warmes Wasser in Ihrem Zuhause zu bieten. Mit seiner hervorragenden Energieeffizienzklasse C bietet dieser Warmwasserspeicher von Ariston eine umweltfreundliche und kosteneffiziente Lösung für Ihren Warmwasserbedarf. Ausgestattet mit der bewährten Qualität der Marke Ariston und mit einer hohen Kundenzufriedenheit von 4 Sternen, garantiert dieses Gerät Langlebigkeit und hohe Leistung.</p><p class=\"justify\">Der druckfeste Hängespeicher bietet eine Kapazität von 50 Litern und ist somit ideal zur Versorgung mehrerer Zapfstellen in Ihrer Küche, Ihrem Bad oder anderen Räumen geeignet. Die Temperaturauswahl erfolgt stufenlos bis 75 °C, sodass Sie die Temperatur des Wassers ganz nach Ihren Bedürfnissen anpassen können. Mit einer Leistung von 1,5 kW beträgt die Aufheizzeit lediglich 1 Stunde und 50 Minuten - damit genießen Sie schnell angenehm warmes Wasser.</p><p class=\"justify\">Ein weiterer Pluspunkt des Ariston Warmwasserspeichers ist das Nettogewicht von nur 16 kg, was die Montage und den Transport des Geräts erleichtert. Darüber hinaus ist das Design des Hängespeichers elegant und dezent, sodass es sich problemlos in jede Einrichtung integrieren lässt. Die GTIN13 des Produkts lautet 5414849693005 und der Artikel ist unter der SKU 2513026 gelistet.</p><p class=\"justify\">Insgesamt ist der Ariston Warmwasserspeicher Regent REG50 VR PL EU 50 Liter EEK: C eine ausgezeichnete Wahl für jeden, der eine zuverlässige und umweltfreundliche Lösung zur Versorgung mit Warmwasser sucht. Sie können sich darauf verlassen, dass dieser leistungsstarke und energieeffiziente Warmwasserspeicher Sie über viele Jahre hinweg in Ihrem Zuhause begleiten wird.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "6046221",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Ariston Hängespeicher REG30 O EEK: C 2 kW - Warmwasserspeicher",
+                            "text": "<p class=\"justify\">Der Ariston Hängespeicher REG30 O EEK: C 2 kW ist ein hochwertiger Warmwasserspeicher für den Einsatz in der Küche und bietet eine effiziente Lösung für die Warmwasserversorgung. Mit einer Kapazität von 30 Litern und einer Leistung von 2 kW ist dieser Hängespeicher ideal für den täglichen Gebrauch geeignet. Die Energieeffizienzklasse C zeigt, dass das Gerät energieeffizient arbeitet und dabei den Energieverbrauch in Grenzen hält.</p><p class=\"justify\">Ein besonderes Merkmal des Hängespeichers ist der Innenbehälter aus emailliertem Stahlblech, der für eine hohe Langlebigkeit und erhöhte Korrosionsbeständigkeit sorgt. Der Wärmespeicher kann einen Betriebsdruck von bis zu 8 bar erreichen und ist sowohl für druckfeste (geschlossene) als auch für drucklose (offene) Systeme einsetzbar. Dank der PU-Hartschaumisolierung bleibt das Wasser im Behälter länger warm und der Energieverbrauch wird weiter gesenkt.</p><p class=\"justify\">Die Temperaturregulierung erfolgt über ein Thermostat mit Überhitzungsschutz, das für ein sicheres und präzises Einstellen der gewünschten Wassertemperatur sorgt. Zusätzlich ist der Temperaturwähler des Ariston Hängespeichers REG30 O EEK: C 2 kW mit einer Energie-Sparstellung und einer Frostschutzstellung bei 7 °C ausgestattet. Der Korrosionsschutz durch Emaillierung und Magnesiumschutzanode gewährleistet eine lange Lebensdauer des Geräts.</p><p class=\"justify\">Die IP-Klassifizierung IP 24D zeigt, dass dieser Warmwasserspeicher vor Spritzwasser geschützt ist und somit sicher im feuchten Umfeld einer Küche installiert werden kann. Der Ariston Hängespeicher REG30 O EEK: C 2 kW ist ideal für alle, die eine zuverlässige und effiziente Lösung für die Warmwasserversorgung in ihren vier Wänden suchen.</p>"
+                        }
+                    ]
+                }
             }
-          ]
+        ]
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE: Die besten Produkte für Warmwasser",
+        "defaultMetaDescription": "$KATEGORIE: Riesige Auswahl an Markenprodukten von Vaillant, Ariston, Regent und Co. | Finden Sie das passende Produkt für Warmwasser in Ihrem Zuhause!",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "brandSeo": {
+        "defaultTitle": "$HERSTELLER | Top Qualität & Top Preise",
+        "defaultMetaDescription": "$HERSTELLER ist namhafter Hersteller für Durchlauferhitzer und Warmwasserspeicher. Kaufen Sie nachhaltige Produkte von $HERSTELLER.",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "navigationLinks": [
+        {
+            "title": "Start",
+            "linkTo": "/",
+            "linkTitle": "Warmwasser",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Warmwasser Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "linkTo": "/marken/",
+            "linkTitle": "Warmwasser Marken",
+            "publish": true
+        },
+        {
+            "title": "Kontakt",
+            "linkTo": "/kontakt/",
+            "linkTitle": "Kontakt",
+            "publish": false
         }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "$HERSTELLER | Top Qualität & Top Preise",
-    "defaultMetaDescription": "$HERSTELLER ist namhafter Hersteller für Durchlauferhitzer und Warmwasserspeicher. Kaufen Sie nachhaltige Produkte von $HERSTELLER.",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "palm",
-        "name": "Palm",
-        "seo": {
-          "title": "Produkte von Palm günstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "navigationLinks": [
-    {
-      "title": "Start",
-      "linkTo": "/",
-      "linkTitle": "Warmwasser",
-      "publish": true
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
     },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Warmwasser Shop",
-      "publish": true
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
     },
-    {
-      "title": "Marken",
-      "linkTo": "/marken/",
-      "linkTitle": "Warmwasser Marken",
-      "publish": true
-    },
-    {
-      "title": "Kontakt",
-      "linkTo": "/kontakt/",
-      "linkTitle": "Kontakt",
-      "publish": false
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  ],
-  "ai": {
-    "enabled": true,
-    "engine": 1
-  },
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
